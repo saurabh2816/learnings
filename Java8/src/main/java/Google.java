@@ -10,7 +10,6 @@ public class Google {
         PaymentService payObject = new PaymentServiceImpl();
         payObject.pay();
 
-
     }
 }
 
